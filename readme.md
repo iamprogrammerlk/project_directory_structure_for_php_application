@@ -10,9 +10,9 @@
 
 <br><br>
 
-# {{PROJECT_TITLE}}
+# Project Directory Structure for PHP Application
 
-{{PROJECT_DESCRIPTION}}
+Feature-based, scalable directory (folder) structure for PHP application development.
 
 > [!TIP]
 >
